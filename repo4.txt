@@ -1,1 +1,2 @@
-estoy modificando el fichero repo4 en local
+este fichero lo he creado en remoto
+Estoy modificando repo4 desde remoto
